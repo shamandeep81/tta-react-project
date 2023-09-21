@@ -1,4 +1,25 @@
 .Blue {
     background-color: #1bc6e4;
-   height: 15rem;
+   height: 9.6rem;
+   margin: 0;
+   padding: 0;
 }
+
+
+@media (max-width: 576px) {
+   .Blue{
+    height: 16.5rem;
+   }
+  }
+
+  @media (min-width: 768px) {
+    .Blue{
+        height: 16.5rem;
+       }
+  }
+
+  @media (min-width: 577px) and (max-width: 767px) {
+    .Blue{
+        height: 16.5rem;
+       }
+  }
