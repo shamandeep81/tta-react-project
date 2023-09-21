@@ -21,11 +21,7 @@
     z-index: 2;
 }
 
-
-
 .home-sci a{
-   
-    
     display: inline-flex;
     justify-content: center;
     align-items: center;
@@ -41,10 +37,6 @@
     padding: 8px;
     overflow: hidden;
     transition: .5s;
-
-
-   
-
 }
 
 .home-sci a:hover{
@@ -63,7 +55,3 @@
     background: #1acfee
   
 }
-/* 
-.home-sci a:hover::before{
-    width: 100%;
-} */
